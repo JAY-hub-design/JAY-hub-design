@@ -1,0 +1,15 @@
+/workspaces/JAY-hub-design/MyFirstApp/bin/Debug/net10.0/MyFirstApp
+/workspaces/JAY-hub-design/MyFirstApp/bin/Debug/net10.0/MyFirstApp.deps.json
+/workspaces/JAY-hub-design/MyFirstApp/bin/Debug/net10.0/MyFirstApp.runtimeconfig.json
+/workspaces/JAY-hub-design/MyFirstApp/bin/Debug/net10.0/MyFirstApp.dll
+/workspaces/JAY-hub-design/MyFirstApp/bin/Debug/net10.0/MyFirstApp.pdb
+/workspaces/JAY-hub-design/MyFirstApp/obj/Debug/net10.0/MyFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/JAY-hub-design/MyFirstApp/obj/Debug/net10.0/MyFirstApp.AssemblyInfoInputs.cache
+/workspaces/JAY-hub-design/MyFirstApp/obj/Debug/net10.0/MyFirstApp.AssemblyInfo.cs
+/workspaces/JAY-hub-design/MyFirstApp/obj/Debug/net10.0/MyFirstApp.csproj.CoreCompileInputs.cache
+/workspaces/JAY-hub-design/MyFirstApp/obj/Debug/net10.0/MyFirstApp.sourcelink.json
+/workspaces/JAY-hub-design/MyFirstApp/obj/Debug/net10.0/MyFirstApp.dll
+/workspaces/JAY-hub-design/MyFirstApp/obj/Debug/net10.0/refint/MyFirstApp.dll
+/workspaces/JAY-hub-design/MyFirstApp/obj/Debug/net10.0/MyFirstApp.pdb
+/workspaces/JAY-hub-design/MyFirstApp/obj/Debug/net10.0/MyFirstApp.genruntimeconfig.cache
+/workspaces/JAY-hub-design/MyFirstApp/obj/Debug/net10.0/ref/MyFirstApp.dll
